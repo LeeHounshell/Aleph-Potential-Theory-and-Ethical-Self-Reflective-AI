@@ -327,7 +327,7 @@ Creator of Aleph Potential Theory and ESRAI.
 
 **Preprint Availability:**
 - viXra: Under review (Form ref: 17637883)
-- Zenodo: [TODO: Add DOI once I get it]
+- Zenodo: https://doi.org/10.5281/zenodo.17784626
 - ResearchGate: [TODO: Add link once posted]
 - Full LaTeX source: Available in this repository
 
