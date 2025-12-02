@@ -222,9 +222,10 @@ When you measure a quantum system:
 ## What Next?
 
 **If this intrigues you:**
-- Read [Traversing the Infinite v6](doc/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
-- Read [APT v2](doc/Aleph%20Potential%20Theory%20v2.pdf) for technical rigor
-- Explore [ESRAI](doc/Ethical%20AI%20Framework.pdf) for AI ethics implications
+- Read [Traversing the Infinite v6](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
+- Read [APT v2](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v2/Aleph%20Potential%20Theory%20v2.pdf) for technical rigor
+- Explore [ESRAI](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/ESRAI/Ethical%20AI%20Framework.pdf) for AI ethics implications
+- **[→ official scientific document](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/apt_arxiv.pdf)**
 
 **If you're skeptical:**
 - Good! Science requires skepticism
