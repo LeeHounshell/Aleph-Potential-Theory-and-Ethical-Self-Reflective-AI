@@ -52,7 +52,7 @@ Apply P recursively:
 
 **Result:** Everything from two axioms. Occam's Razor at maximum parsimony.
 
-**[→ Read the 5-minute introduction](QUICK_START.md)**
+**[→ Read the 5-minute introduction](./QUICK_START.md)**
 
 ---
 
@@ -106,6 +106,8 @@ The scientific formulation is found in `apt_arxiv.tex`.
 ### 🔷 Building the ArXiv Paper
 
 Compile using:
+
+bash
 pdflatex apt_arxiv.tex
 
 
@@ -185,7 +187,7 @@ Rigorous scientific formulation with:
 
 These explore subjective, ethical, and experiential themes.
 
-#### 📄 **[Traversing the Infinite (Work in Progress)](docs/Traversing-the-Infinite//Traversing%20the%20Infinite%20WIP.pdf)**
+#### 📄 **[Traversing the Infinite (Work in Progress)](docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf)**
 
 The full framework written for general understanding:
 - Part I: Mathematical foundation (∅, P, 𝒜, dimensions, projection)
@@ -212,7 +214,7 @@ Narrative version optimized for accessibility:
 
 ### 🧭 Speculative Theory
 - `APT-Extended.md`  
-**[→ speculative dimensional and consciousness extensions](APT-Extended.md)**
+**[→ speculative dimensional and consciousness extensions](./APT-Extended.md)**
 
 Includes:
 
@@ -328,3 +330,12 @@ Creator of Aleph Potential Theory and ESRAI.
 - Zenodo: [TODO: Add DOI once I get it]
 - ResearchGate: [TODO: Add link once posted]
 - Full LaTeX source: Available in this repository
+
+--
+
+If you use or reference this work, please cite:
+
+Hounshell, Lee (2025). Aleph Potential Theory: A Mathematical Framework for Reality as Relational Structure
+Preprint. Full source available at:
+https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI
+
