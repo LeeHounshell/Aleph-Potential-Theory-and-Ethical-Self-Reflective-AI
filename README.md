@@ -58,7 +58,8 @@ Apply P recursively:
 
 ## 🔷 Repository Structure
 
-/
+```html
+.
 ├── apt_arxiv.tex # Main scientific paper (arXiv-ready)
 ├── docs/
 │ ├── APT-v1/
@@ -71,6 +72,7 @@ Apply P recursively:
 ├── APT-Extended.md # Speculative extensions
 ├── README.md
 └── QUICK_START.md
+```
 
 ---
 
