@@ -24,7 +24,7 @@ If you're new to this repository:
 
 - **For philosophers / cognitive scientists:**  
   Start with  
-  **`Appendix-A/` → the philosophical companion.**
+  **[→ Appendix-A: the philosophical companion](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Appendix-A/Appendix-A.md)**
 
 - **For those exploring broader implications:**  
   See  
@@ -317,3 +317,14 @@ MIT License unless otherwise noted.
 **Lee Hounshell**  
 Creator of Aleph Potential Theory and ESRAI.
 
+---
+
+## Status Update - December 2025
+
+**ArXiv Submission Status:** Seeking endorsement for math-ph category
+
+**Preprint Availability:**
+- viXra: Under review (Form ref: 17637883)
+- Zenodo: [TODO: Add DOI once I get it]
+- ResearchGate: [TODO: Add link once posted]
+- Full LaTeX source: Available in this repository
