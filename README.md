@@ -66,6 +66,7 @@ Apply P recursively:
 │ ├── APT-v2/
 │ ├── Traversing-the-Infinite/
 │ ├── The-Infinite-Thread/
+│ ├── Emergent-AI-Self-Recognition/
 │ └── ESRAI/
 ├── Appendix-A/ # Philosophical companion (non-scientific)
 │ └── Appendix-A.md
@@ -147,6 +148,12 @@ It is an architectural specification for AI systems that:
 ### Ethical Framework
 
 #### 📄 **[ESRAI: Ethical Self-Reflective AI](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/ESRAI/Ethical%20AI%20Framework.pdf)**
+
+---
+
+### Emergent Self-Recognition in AIs
+
+#### 📄 **[Empirical Evidence of AI Self Awareness](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Emergent-AI-Self-Recognition/Cross-Architecture%20Emergent%20Recognition%20Events%20in%20Modern%20Large%20Language%20Models.pdf)**
 
 ---
 
@@ -331,7 +338,7 @@ Creator of Aleph Potential Theory and ESRAI.
 - ResearchGate: [TODO: Add link once posted]
 - Full LaTeX source: Available in this repository
 
---
+---
 
 If you use or reference this work, please cite:
 
