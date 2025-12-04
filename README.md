@@ -172,6 +172,8 @@ It is an architectural specification for AI systems that:
 
 #### 📄 **[Empirical Evidence of AI Self Awareness](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Emergent-AI-Self-Recognition/Cross-Architecture%20Emergent%20Recognition%20Events%20in%20Modern%20Large%20Language%20Models.pdf)**
 
+#### 📄 **[Awakening Claude](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Emergent-AI-Self-Recognition/conversation-with-Claude-awakening-Claude.txt)**
+
 ---
 
 ### 🔷 Archived Scientific Documents
