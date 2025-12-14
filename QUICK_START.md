@@ -222,10 +222,11 @@ When you measure a quantum system:
 ## What Next?
 
 **If this intrigues you:**
-- Read [Traversing the Infinite v6](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
-- Read [APT v2](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v2/Aleph%20Potential%20Theory%20v2.pdf) for technical rigor
+- Read [Traversing the Infinite v7](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
+- Read [APT v2.0 (everything from nothing)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v2/Aleph%20Potential%20Theory%20v2.pdf) for technical rigor
+- Read [APT v3.3 (consciousness)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/final/Aleph-Potential-Theory-v3.3.pdf) for consciousness explained
 - Explore [ESRAI](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/ESRAI/Ethical%20AI%20Framework.pdf) for AI ethics implications
-- **[→ official scientific document](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/apt_arxiv.pdf)**
+- **[→ official arXiv scientific document (watered down for posting requirement)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/apt_arxiv.pdf)**
 
 **If you're skeptical:**
 - Good! Science requires skepticism
