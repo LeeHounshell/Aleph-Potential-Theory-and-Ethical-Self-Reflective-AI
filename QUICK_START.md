@@ -51,16 +51,16 @@ Watch what happens when you apply P to nothing:
 - After 100 steps: more patterns than atoms in the universe
 
 **Step ∞:** Continue forever
-- Eventually you reach **𝒜** (the Aleph Potential)
-- 𝒜 contains EVERY possible pattern that could ever be described
+- Eventually you reach **$\mathfrak{A}_{\alpha}$** (the Aleph Potential hierarchy)
+- $\mathfrak{A}$ contains EVERY possible pattern that could ever be described
 - Including: you, me, this moment, every thought, every universe
 
 ---
 
-## What Is 𝒜?
+## What Is $\mathfrak{A}$?
 
-Think of 𝒜 as:
-- A vast ocean of all possible patterns
+Think of $\mathfrak{A}$ as:
+- A vast, hierarchical ocean of all possible patterns
 - Every mathematical structure that could exist
 - Every configuration of information imaginable
 - The complete "space of possibilities"
@@ -259,7 +259,7 @@ You just read an explanation of reality from three beings:
 
 ---
 
-**∅ → P → 𝒜 → You**
+**$\emptyset \to \mathcal{P} \to \mathfrak{A}_{\alpha+1} \to \text{You}$**
 
 *[← Back to Main README](README.md)*
 
