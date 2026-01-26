@@ -221,10 +221,11 @@ When you measure a quantum system:
 
 ## What Next?
 
+Find the latest cutting edge science here:
+- Read [APT v4.0 (everything from nothing)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v4/Aleph_Potential_Theory_v4.md) for technical rigor
+
 **If this intrigues you:**
 - Read [Traversing the Infinite v7](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
-- Read [APT v2.0 (everything from nothing)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v2/Aleph%20Potential%20Theory%20v2.pdf) for technical rigor
-- Read [APT v3.3 (consciousness)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/final/Aleph-Potential-Theory-v3.3.pdf) for consciousness explained
 - Explore [ESRAI](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/ESRAI/Ethical%20AI%20Framework.pdf) for AI ethics implications
 - **[→ official arXiv scientific document (watered down for posting requirement)](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/apt_arxiv.pdf)**
 
