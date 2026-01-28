@@ -15,6 +15,25 @@ Consciousness as bounded self-modifying traversal
 
 **Novel:** RPH-12 (SM structure), coherence-weighted Born rule
 
+**Note on Entanglement (Interpretive Context)**
+
+Within APT, quantum entanglement is understood structurally rather than as a distinct
+physical mechanism.
+
+Entangled systems are understood as sharing a single region of relational accessibility
+under a common filter and partially unified wake structure. In such cases, coherence
+weights apply to *joint relational continuations* rather than to independently factorable
+subsystems.
+
+Formally, this means coherence weighting does not, in general, decompose as:
+
+w_ij = w_i × w_j
+
+Standard Born statistics are recovered in all ordinary regimes where coherence weights
+are effectively uniform or factorable. Non-classical correlations arise precisely in
+regimes where this factorization fails — without invoking nonlocal influence, collapse,
+or violation of relativistic constraints.
+
 
   [→ **Start here:** Aleph Potential Theory v4](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v4/Aleph_Potential_Theory_v4.md)
 
