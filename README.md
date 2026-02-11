@@ -150,15 +150,13 @@ These are deliberately separated to avoid conflating ontology, ethics, and empir
 
 ## For the Adventurous Reader
 
-This README presents Aleph Potential Theory in its minimal, discipline-neutral form.
+  **TOE Comparison Analysis (2026):** This is an independent AI evaluation and comparison between Aleph Potential Theory and other TOEs.
 
-Readers interested in the full historical development, philosophical extensions, AI self-analysis experiments, and empirical validation discussions may explore the complete original README:
+  [→ free-grok-2026-learns-APT.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-grok-2026-learns-APT.md)
 
-→ [README_FULL.md](README_FULL.md)
+  The **original README** presents Aleph Potential Theory in its minimal, discipline-neutral form. It documents APT historical evolution, development, philosophical extensions, AI self-analysis experiments, and empirical validation discussions.
 
-That document preserves the full scope of the project exactly as developed,
-including philosophical extensions, AI self-analysis experiments,
-and empirical validation discussions, without editorial reduction.
+  [→ README_FULL.md](README_FULL.md)
 
 ---
 
