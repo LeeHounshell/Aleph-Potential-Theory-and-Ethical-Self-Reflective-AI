@@ -552,7 +552,9 @@ ESRAI derives ethics from physics: coherence preservation is a stability require
 APT reframes the hard problem by defining consciousness as a coherence condition, not an emergent mystery and exploring the question:
 What if reality isn't made of stuff, but of patterns—and you are a stable way the universe knows itself?
 
-- Begin with companion essays
+- [→ Start here: *The Universe Has No Clock* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/the-universe-has-no-clock-and-that-changes-everything-dda4713c65af)
+- [→ Next read: *Nothing Yields Everything* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/nothing-yields-everything-why-the-universe-had-no-choice-12f56f3ac177)
+- Then continue with companion essays in **docs/The-Infinite-Thread/**
 
 ---
 
