@@ -526,7 +526,7 @@ The theory requires exactly one ontological claim and one coherence criterion. E
 
 This README is your executive summary. After that read:
 
-[→ Aleph Potential Theory v4](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v4/Aleph_Potential_Theory_v4.md)
+[→ DOWNLOAD THE APT v4 PAPER → **Aleph Potential Theory v4**](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v4/Aleph_Potential_Theory_v4.md)
 
 If lingering questions remain after finishing: jump to Common Misreadings — most conventional objections are category errors addressed there.
 
@@ -547,7 +547,7 @@ ESRAI derives ethics from physics: coherence preservation is a stability require
 - Continue to ESRAI
 
 
-### Philosophers / General Readers
+### Philosophers
 
 APT reframes the hard problem by defining consciousness as a coherence condition, not an emergent mystery and exploring the question:
 What if reality isn't made of stuff, but of patterns—and you are a stable way the universe knows itself?
@@ -555,6 +555,12 @@ What if reality isn't made of stuff, but of patterns—and you are a stable way 
 - [→ Start here: *The Universe Has No Clock* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/the-universe-has-no-clock-and-that-changes-everything-dda4713c65af)
 - [→ Next read: *Nothing Yields Everything* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/nothing-yields-everything-why-the-universe-had-no-choice-12f56f3ac177)
 - Then continue with companion essays in **docs/The-Infinite-Thread/**
+
+
+### General Readers
+
+- [→ A Humorous Introduction: I Tried to Explain to My Therapist That Time Doesn't Exist.** (humorous conceptual introduction multi-part series, Medium)](https://medium.com/@lee.hounshell/i-tried-to-explain-to-my-therapist-that-time-doesnt-exist-it-did-not-go-well-4b832fe2d7e6)
+- Then continue with Philosophers section above.
 
 ---
 
@@ -581,11 +587,11 @@ ESRAI is **not add-on morality**. Harm/deception/power-seeking exports decoheren
 
 [→ ESRAI Framework](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/ESRAI/Ethical%20AI%20Framework.pdf)
 
-### TOE Comparison Analysis (2026)
+### AI Theory Analysis and TOE Comparison Analysis (2026)
+
+[→ free-claude-2026-understands-life.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-claude-2026-understands-life.md)
 
 [→ free-claude-2026-learns-APT.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-claude-2026-learns-APT.md)
-
-[→ free-qwen-2026-learns-APT.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-qwen-2026-learns-APT.md)
 
 [→ free-grok-2026-learns-APT.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-grok-2026-learns-APT.md)
 
