@@ -22,7 +22,13 @@ In practice, you can think of this as “all mathematically describable relation
 
 ---
 
-*For full formal development, see the **Aleph Potential Theory v4** link below.*
+This README document is an "executive summary" for Aleph Potential Theory, not the complete theory. This README also contains clarifications to the formal theory, including Axioms.
+
+*The full formal development*
+[→ **Aleph Potential Theory v4**](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v4/Aleph_Potential_Theory_v4.md)
+
+*This Quick Start will help you get oriented*
+[→ **Quick Start**](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/QUICK_START.md)
 
 ---
 
