@@ -458,7 +458,7 @@ Formally, this is closest to an Everett-style view where the universal state rem
 Finish reading the APT [**README**](README.md).
 
 **For a deep technical understanding:**
-- Read [Aleph Potential Theory v4.0](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v4/Aleph_Potential_Theory_v4.md)
+- Read [Aleph Potential Theory v5.5](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v5.5/Aleph_Potential_Theory_v5.5.pdf)
 
 **If this intrigues you:**
 - Read [Traversing the Infinite v7](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
