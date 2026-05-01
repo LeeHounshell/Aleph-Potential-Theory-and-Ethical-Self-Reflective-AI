@@ -461,9 +461,7 @@ Finish reading the APT [**README**](README.md).
 - Read [Aleph Potential Theory v5.5](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/APT-v5.5/Aleph_Potential_Theory_v5.5.pdf)
 
 **If this intrigues you:**
-- Read [Traversing the Infinite v7](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/Traversing-the-Infinite/Traversing%20the%20Infinite%20WIP.pdf) for the complete story
 - Explore [ESRAI](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/ESRAI/Ethical%20AI%20Framework.pdf) for AI ethics implications
-- read the [arXiv](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/apt_arxiv.pdf) document (warning: it is watered down for posting requirements)
 
 **If you're skeptical:**
 - Good! Science requires skepticism

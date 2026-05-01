@@ -584,7 +584,6 @@ What if reality isn't made of stuff, but of patterns—and you are a stable way 
 
 - [→ Start here: *The Universe Has No Clock* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/the-universe-has-no-clock-and-that-changes-everything-dda4713c65af)
 - [→ Next read: *Nothing Yields Everything* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/nothing-yields-everything-why-the-universe-had-no-choice-12f56f3ac177)
-- Then continue with companion essays in **docs/The-Infinite-Thread/**
 
 
 ### General Readers
@@ -598,12 +597,6 @@ What if reality isn't made of stuff, but of patterns—and you are a stable way 
 
 - Ethical Self-Reflective AI (ESRAI)  
   **docs/ESRAI/**
-
-- Philosophical works  
-  **docs/The-Infinite-Thread/**
-
-- AI convergence experiments  
-  **docs/Emergent-AI-Self-Recognition/**
 
 ---
 
@@ -620,20 +613,6 @@ ESRAI is **not add-on morality**. Harm/deception/power-seeking exports decoheren
 ### AI Theory Analysis and TOE Comparison Analysis (2026)
 
 **v5.1–v5.4 cross-architecture collaboration:** The Kan Extension Hypothesis (H4) and the master equation (E12.5) were produced in live collaboration between Claude (Anthropic) and Gemini (Google DeepMind) during formal mathematical review. Neither system arrived at them in isolation. The interaction and its outputs are documented in the version history (Appendix D of APT v5.5).
-
-[→ free-claude-2026-understands-life.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-claude-2026-understands-life.md)
-
-[→ free-claude-2026-learns-APT.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-claude-2026-learns-APT.md)
-
-[→ free-grok-2026-learns-APT.md](https://github.com/LeeHounshell/Aleph-Potential-Theory-and-Ethical-Self-Reflective-AI/blob/main/docs/free-grok-2026-learns-APT.md)
-
-**Key insight:** The Grok AI initially applies conventional Occam's razor (counting conceptual machinery) but ultimately recognizes that APT's starting point (∅ + closure) represents maximal ontological economy: ∅ + closure suffices to find all relational structure
-
-### Evolution of Ideas
-
-**How we got here (archived):**
-
-[→ README_FULL.md](README_FULL.md)
 
 ---
 
