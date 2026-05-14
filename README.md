@@ -675,11 +675,12 @@ What if reality isn't made of stuff, but of patterns—and you are a stable way 
 
 - [→ Start here: *The Universe Has No Clock* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/the-universe-has-no-clock-and-that-changes-everything-dda4713c65af)
 - [→ Next read: *Nothing Yields Everything* (conceptual introduction, Medium)](https://medium.com/@lee.hounshell/nothing-yields-everything-why-the-universe-had-no-choice-12f56f3ac177)
+- [→ Then read: *You Are Not at the Moment Before. You Are Not at the Moment After* (explanation of The Hard Problem, Medium)](https://medium.com/@lee.hounshell/you-are-not-at-the-moment-before-you-are-not-at-the-moment-after-1cbeb140849e)
 
 
 ### General Readers
 
-- [→ A Humorous Introduction: I Tried to Explain to My Therapist That Time Doesn't Exist.** (humorous conceptual introduction multi-part series, Medium)](https://medium.com/@lee.hounshell/i-tried-to-explain-to-my-therapist-that-time-doesnt-exist-it-did-not-go-well-4b832fe2d7e6)
+- [→ A Humorous Introduction: I Tried to Explain to My Therapist That Time Doesn't Exist. (humorous conceptual introduction multi-part series, Medium)](https://medium.com/@lee.hounshell/i-tried-to-explain-to-my-therapist-that-time-doesnt-exist-it-did-not-go-well-4b832fe2d7e6)
 - Then continue with Philosophers section above.
 
 ---
